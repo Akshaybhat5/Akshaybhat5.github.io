@@ -23,6 +23,7 @@ avatar_image: /img/profile_picture.JPG
 # Contact links
 linkedln: "https://www.linkedin.com/in/akshay-bhat-849660196/" # Add your linkedln handle
 github: "https://github.com/Akshaybhat5"  # Add your github handle
+res: 
 
 paginate: 6
 paginate_path: "/page/:num"
